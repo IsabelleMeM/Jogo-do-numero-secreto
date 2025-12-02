@@ -120,13 +120,8 @@ button:disabled {
         font-size: 16px;
     }
 
-
     .texto__paragrafo {
         font-size: 24px;
-    }
-
-    .container__imagem-pessoa {
-        display: none;
     }
 
     .container__conteudo {
